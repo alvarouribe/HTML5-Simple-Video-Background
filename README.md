@@ -4,10 +4,6 @@
 
 HTML5 Simple Video Background lets you use an HTML5 video as a centered, full-page background. It uses CSS and Javascript (with jQuery) to reposition the video on page load and window resize events.
 
-### Code
-
- HTML5 Simple Video Background is written with SCSS and jQuery. You can find the project files in `~/html5-simple-video-background/`.
-
 ### Compatibility
 
 If a browser can run HTML5 video, it should be able to run this plugin. If a viewer does not have Javascript enabled, the background video will fill the page, but will be anchored to the top left corner instead of being centered.
