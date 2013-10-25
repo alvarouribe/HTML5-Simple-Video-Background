@@ -14,7 +14,7 @@ If a browser can run HTML5 video, it should be able to run this plugin. If a vie
 
 ### Get Files
 
-* Copy the directory `video-backgound` to a location within your website project.
+* Copy the directory `video-background` to a location within your website project.
 
 ### Your `head`
 
